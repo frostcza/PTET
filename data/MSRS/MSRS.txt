@@ -1,0 +1,6 @@
+download from here:
+https://github.com/Linfeng-Tang/MSRS
+
+change the folder name: 
+test/MSRS/ir->test/MSRS/IR, test/MSRS/vi->test/MSRS/VI,
+train/MSRS/ir->train/MSRS/IR, train/MSRS/vi->train/MSRS/VI
